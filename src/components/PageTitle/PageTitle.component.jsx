@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 
 const PageTitle = ({title}) => {
   let defaultTitle =
-    'CLONE Stack Overflow - Where Developers Learn, Share, & Build Careers';
+    'P#20 Group4 Stack Overflow - Where Developers Learn, Share, & Build Careers';
 
   return (
     <Helmet>

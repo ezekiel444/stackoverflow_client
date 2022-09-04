@@ -42,70 +42,70 @@ const App = () => {
           <LayoutRoute
             exact
             path='/'
-            title='CLONE Stack Overflow - Where Developers Learn, Share, & Build Careers'
+            title='P#20 Groupe4 Stack Overflow - Where Developers Learn, Share, & Build Careers'
           >
             <HomePage/>
           </LayoutRoute>
           <LayoutRoute
             exact
             path='/questions'
-            title='All Questions - CLONE Stack Overflow'
+            title='All Questions - P#20 Groupe4 Stack Overflow'
           >
             <QuestionsPage/>
           </LayoutRoute>
           <LayoutRoute
             exact
             path='/tags'
-            title='Tags - CLONE Stack Overflow'
+            title='Tags - P#20 Groupe4 Stack Overflow'
           >
             <AllTagsPage/>
           </LayoutRoute>
           <LayoutRoute
             exact
             path='/users'
-            title='Users - CLONE Stack Overflow'
+            title='Users - P#20 Groupe4 Stack Overflow'
           >
             <AllUsersPage/>
           </LayoutRoute>
           <BaseRoute
             exact
             path='/register'
-            title='Sign Up - CLONE Stack Overflow'
+            title='Sign Up - P#20 Groupe4 Stack Overflow'
           >
             <Register/>
           </BaseRoute>
           <BaseRoute
             exact
             path='/login'
-            title='Log In - CLONE Stack Overflow'
+            title='Log In - P#20 Groupe4 Stack Overflow'
           >
             <Login/>
           </BaseRoute>
           <LayoutRoute
             exact
             path='/questions/:id'
-            title='Users - CLONE Stack Overflow'
+            title='Users - P#20 Groupe4 Stack Overflow'
           >
             <Post/>
           </LayoutRoute>
           <LayoutRoute
             exact
             path='/users/:id'
-            title='Users - CLONE Stack Overflow'
+            title='Users - P#20 Groupe4 Stack Overflow'
           >
             <ProfilePage/>
           </LayoutRoute>
           <LayoutRoute
             exact
             path='/tags/:tagname'
-            title='Users - CLONE Stack Overflow'
+            title='Users - P#20 Groupe4 Stack Overflow'
           >
             <TagPage/>
           </LayoutRoute>
           <BaseRoute
             exact
             path='/add/question'
-            title='Ask a Question - CLONE Stack Overflow'
+            title='Ask a Question - P#20 Groupe4 Stack Overflow'
           >
             <PostForm/>
           </BaseRoute>

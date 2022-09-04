@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="socials">
         <div className="social-item">
           <a
-            href='https://github.com/Mayank0255/Stackoverflow-Clone-Frontend'
+            href='https://github.com/ezekiel444/stackoverflow_client'
             target='_blank'
             rel="noreferrer"
           >
@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
         <div className="social-item">
           <a
-            href='https://github.com/Mayank0255/Stackoverflow-Clone-Backend'
+            href='https://github.com/ezekiel444/stackover_api'
             target='_blank'
             rel="noreferrer"
           >
@@ -31,6 +31,11 @@ const Footer = () => {
         </div>
       </div>
     </div>
+      <div className="group4">
+       <p>Simplon P#20 Groupe4 -Matomi, Aley, Salem, Mehdi. </p>
+       <br />
+      </div>
+       <p>Source code owner Mayank0255 </p>
   </Fragment>
 };
 
