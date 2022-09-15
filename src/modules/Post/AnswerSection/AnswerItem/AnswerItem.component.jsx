@@ -11,6 +11,7 @@ import UserCard from "../../../../components/molecules/UserCard/UserCard.compone
 import "./AnswerItem.styles.scss";
 import censorBadWords from "../../../../utils/censorBadWords";
 
+
 const AnswerItem = ({
   deleteAnswer,
   answer: { body, user_id, gravatar, id, created_at, username },

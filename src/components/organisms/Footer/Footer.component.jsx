@@ -32,7 +32,7 @@ const Footer = () => {
       </div>
     </div>
       <div className="group4">
-       <p>Simplon P#20 Groupe4 -Matomi, Aley, Salem, Mehdi. </p>
+       <p>Simplon P#20 Groupe4 - <span><a href="https://www.linkedin.com/in/ezekielmatomilucky">Matomi</a></span>, <span><a href="https://www.linkedin.com/in/aley-saidi-45633b23b/">Aley</a></span>, <span><a href="https://www.linkedin.com/in/s-chenini/">Salem</a></span>, <span><a href="https://www.linkedin.com/in/mehdi-zerari-531926242/">Mehdi</a></span>. </p>
        <br />
       </div>
        <p>Source code owner Mayank0255 </p>
